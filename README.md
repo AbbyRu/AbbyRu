@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AbbyRu
+- 👋 Hi, I’m Abigael Amuruon
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python 3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently API Python Path
+- 💞️ I’m looking to collaborate on API development
+- 📫 How to reach me: abbieruon@gmail.com/+254743826565
 
 <!---
 AbbyRu/AbbyRu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
